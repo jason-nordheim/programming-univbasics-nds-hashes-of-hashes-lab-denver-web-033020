@@ -44,7 +44,7 @@ def naming_system
   ns = {
     label: "Kingdom",
     sub_category: {
-      label: "Phylum", 
+      label: "Phylum",
       sub_category: {
         
       }
