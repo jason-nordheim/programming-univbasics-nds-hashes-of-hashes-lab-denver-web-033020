@@ -43,7 +43,7 @@ def naming_system
   # HoH all the way to Species!
   ns = PORTION_1
   ns[:sub_category][:sub_category][:sub_category] => PORTION_2
-  ns[:sub_category][:sub_category][:sub_category][:sub_category] => PORTION_3
-  ns [:sub_category][:sub_category][:sub_category][:sub_category][:sub_category]
-  return ns 
+  ns[:sub_category][:sub_category][:sub_category][:sub_category][:sub_category] => PORTION_3
+  ns[:sub_category][:sub_category][:sub_category][:sub_category][:sub_category][:sub_category] => PORTION_4
+  return ns
 end
