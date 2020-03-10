@@ -63,4 +63,5 @@ def naming_system
       }
     }
   }
+  return ns
 end
